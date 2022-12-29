@@ -1,0 +1,5 @@
+1 has Odd num parity and madam is A palindrome
+2 has Even num parity and apple is Not a palindrome
+3.6 has Cannot have parity and racecar is A palindrome
+89 has Odd num parity and parrot is Not a palindrome
+45.2 has Cannot have parity and discord is Not a palindrome

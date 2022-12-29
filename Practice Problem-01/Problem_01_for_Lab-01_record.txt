@@ -1,0 +1,5 @@
+Percantage of odd parity: 40%
+Percantage of even parity: 20%
+Percantage of no parity: 40%
+Percantage of palindrome: 40%
+Percantage of non-palindrome: 60%
